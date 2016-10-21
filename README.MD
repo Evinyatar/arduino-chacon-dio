@@ -8,6 +8,8 @@ send < sender >,< interruptor >,< state > to the serial port.
 
 See send.sh for an example of how to use from linux.
 
+Based on code from http://www.homautomation.org/2013/10/09/how-to-control-di-o-devices-with-a-raspberry/
+
 Pairing
 -------
 
