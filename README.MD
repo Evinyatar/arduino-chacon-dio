@@ -4,7 +4,7 @@ arduino-chacon
 Control Chacon DIO devices using an Arduino and a RF433 OOK module.
 
 Usage:
-send <sender>,<interruptor>,<state> to the serial port.
+send < sender >,< interruptor >,< state > to the serial port.
 
 See send.sh for an example of how to use from linux.
 
